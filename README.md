@@ -21,6 +21,7 @@
 [在路上](https://zhangliliang.github.io/) | https://zhangliliang.github.io/atom.xml 
 [Alvin's Blog](https://alvinzhu.xyz/)|https://alvinzhu.xyz/feed
 [美团技术团队](https://tech.meituan.com/)|https://tech.meituan.com/atom.xml
+[FengJian's Blog](https://fengjian0106.github.io/)|https://fengjian0106.github.io/atom.xml
 
 
 ## 非计算机相关的独立博客
