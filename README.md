@@ -22,6 +22,7 @@
 [Alvin's Blog](https://alvinzhu.xyz/)|https://alvinzhu.xyz/feed
 [美团技术团队](https://tech.meituan.com/)|https://tech.meituan.com/atom.xml
 [FengJian's Blog](https://fengjian0106.github.io/)|https://fengjian0106.github.io/atom.xml
+[邓范鑫——致力于变革未来的智能技术](http://www.dengfanxin.cn/)|无
 
 
 ## 非计算机相关的独立博客
