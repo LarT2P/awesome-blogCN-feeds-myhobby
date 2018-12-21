@@ -25,6 +25,9 @@
 [邓范鑫——致力于变革未来的智能技术](http://www.dengfanxin.cn/)|无
 [谭升的博客](https://face2ai.com/)|https://face2ai.com/atom.xml
 [冰蓝记录思考的地方](http://lanbing510.info/)|http://lanbing510.info/pages/atom.xml
+[赵丰](https://zhaofeng-shu33.github.io/)|无
+[Vonng](https://vonng.com/)|无
+
 
 ## 非计算机相关的独立博客
 
