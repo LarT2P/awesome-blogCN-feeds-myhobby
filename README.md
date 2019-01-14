@@ -49,7 +49,7 @@
 博客地址 | RSS地址
 ----- | -----
 [弦乐四重奏](https://xianyuzhongzhi.wordpress.com/)|https://xianyuzhongzhi.wordpress.com/feed/
-[宇宙的心弦](https://www.physixfan.com/|https://www.physixfan.com/feed/
+[宇宙的心弦](https://www.physixfan.com/)|https://www.physixfan.com/feed/
 
 ### 数学
 
