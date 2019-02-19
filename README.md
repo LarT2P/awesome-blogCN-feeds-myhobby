@@ -28,6 +28,7 @@
 [赵丰](https://zhaofeng-shu33.github.io/)|无
 [Vonng](https://vonng.com/)|无
 [崔添翼 § 翼若垂天之云](http://cuitianyi.com/)|已停更
+[LemonC.me](http://lemonc.me/)|http://lemonc.me/feed
 
 
 ## 其他的独立博客
